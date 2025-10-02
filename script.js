@@ -1,6 +1,6 @@
 
 // Tu número de WhatsApp (formato internacional, sin + ni espacios)
-const telefono = "542224544191";
+const telefono = "5492224462616";
 
 // Seleccionamos todos los botones "Comprar"
 const botones = document.querySelectorAll(".Comprar");
@@ -53,4 +53,5 @@ document.querySelectorAll('.leer-mas').forEach(btn => {
         }
     });
 });
+
 
